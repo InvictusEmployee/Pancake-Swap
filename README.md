@@ -1,10 +1,11 @@
 # Pancake-Swap
+# Disclaimer, Thanks to the contributor of pancake swap and uniswap project. Also this fork is the project the me and my team made, not a one person's effort. Shout out to all the contribution from a hardworking and dedicated team. This repo is just a fraction of what the complete project looks like, just to show you the prototype of our work. 
 
 ## Purpose of this project
 
   to create and modifiy a new platform from PancakeSwap in order for users to have more various coins offered in the platform other than the ones that are already in BSC. 
   
-  to configure the network configuration in order to use with other blockchain network.
+  to configure the network configuration in order to use with other blockchain network and modify any parameter as we want to.
   
 ## Instruction
 
