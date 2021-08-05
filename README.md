@@ -1,5 +1,5 @@
 # Pancake-Swap
-# Disclaimer, Thanks to the contributor of pancake swap and uniswap project. Also this fork is the project the me and my team made, not a one person's effort. Shout out to all the contribution from a hardworking and dedicated team. This repo is just a fraction of what the complete project looks like, just to show you the prototype of our work. 
+# Disclaimer, Thanks to the contributor of pancake swap and uniswap project. 
 
 ## Purpose of this project
 
